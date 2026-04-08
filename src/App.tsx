@@ -10,8 +10,8 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path='/' element={<Navigate to='/carelynx-ci-poc/dashboard' />} />
-        <Route path='carelynx-ci-poc' element={<Navigate to='/carelynx-ci-poc/dashboard' />} />
+        <Route path='/' element={<Navigate to='/techbees-ci-poc/dashboard' />} />
+        <Route path='techbees-ci-poc' element={<Navigate to='/techbees-ci-poc/dashboard' />} />
         <Route path='/dashboard' element={<Sidebar content={<Dashboard />} />} />
         <Route path='/board' element={<Sidebar content={<Kanban />} />} />
         <Route path='/backlog' element={<Sidebar content={<Backlog />} />} />

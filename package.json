@@ -1,5 +1,5 @@
 {
-  "name": "carelynx-ci-poc",
+  "name": "techbees-ci-poc",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -24,7 +24,7 @@
     "react-tooltip": "^5.27.1",
     "uuid": "^10.0.0"
   },
-  "homepage": "https://techbees-pty-ltd.github.io/carelynx-ci-poc",
+  "homepage": "https://techbees-pty-ltd.github.io/techbees-ci-poc",
   "devDependencies": {
     "@eslint/js": "^9.8.0",
     "@tailwindcss/forms": "^0.5.7",
